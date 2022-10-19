@@ -57,7 +57,7 @@ Because it is too hard to go through Google bot detection with simple email&pass
 
 Cookies can be downloaded with the help of *cookies_getter.py* and will be stored in JSON format.
 
-## Notes
+## To sum up
 There is also SQLite database and simple logger implemented in this project. I also added Selenium.exe and Geckodriver.exe files in repository.
 
 In /data directory you can see video which can be created with the help of this script.
