@@ -25,7 +25,7 @@ Hotel_parser.py goes through the database and update missing information:
 - District
 - Stars
 - Rating
-- Hearest airport
+- Nearest airport
 - Distance from an airport
 - Photo's URLs (up to 30)
 - Hotel description
