@@ -1,5 +1,5 @@
 # Automated hotel reviewer
-This program automatically:
+This program:
 1. Parse hotel data from Booking.com and store it in SQLite database
 2. Generate video reviews on hotels out from this data
 3. Upload videos to YouTube via Selenium webdriver
