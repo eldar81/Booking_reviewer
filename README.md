@@ -4,6 +4,9 @@ This program:
 2. Generate video reviews on hotels out from this data
 3. Upload videos to YouTube via Selenium webdriver
 
+![image](https://user-images.githubusercontent.com/88551054/196950982-7c69c8e9-1218-4aa0-9c22-fd4e8835be35.png)
+
+
 ## 1. Parsing Booking.com
 Parser devided into 2 files *search_parser.py* and *hotel_parser.py*
 
